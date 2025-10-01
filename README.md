@@ -1,11 +1,6 @@
 ## Topic
-In this session, we will discuss:  
 
-* 1.1 Course objectives
-* 1.2 Course description
-* 1.3 How the Course Will Run
-* 1.4 Accessibility
-* 1.5 Resources
+This repository is simply me refreshing my basics of `Markdown`. Feel free to use it anytime you need a quick cheat sheet.
 
 ## keywords & Notes
 
