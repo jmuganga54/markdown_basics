@@ -59,17 +59,11 @@ Markdown Code:
 Example:
 
 **Bold**
-
 *Italic* or __Italic__
-<br>
 ~~Strikethrough~~ or ~Strikethrough~
-<br>
 ***All bold and italic***
-<br>
 <sub>Subscript<sub>
-<br>
 <sup>Superscript<sup>
-<br>
 <ins>underline<ins>
 
 Markdown code:
