@@ -4,6 +4,10 @@ This repository is simply me refreshing my basics of `Markdown`. Feel free to us
 
 > `Markdown` is a lightweight markup language used for formating text. It was designed to be easy to write and easy to read.
 
+
+>[!IMPORTANT]
+>All the content can be found on [Github Doc | Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes)
+
 ## keywords & Notes
 
 ### Line breaks
@@ -438,17 +442,14 @@ A footnote can also have multiple lines[^2]
   This is a second line
 
 
+>[!NOTE]
+> The position of a footnote in your Markdown does not influence where the footnote will be rendered. You can write a footnote right after your reference to the footnote, and the footnote will still render at the bottom of the Markdown. Footnotes are not supported in wikis.
+
 ### Alerts
 
 Alerts are a Markdown extension based on the blockquote syntax that you can use to emphasize critical information.
 
 On GitHub, they are displayed with distinctive colors and icons to indicate the significance of the content.
-
-
-
-## Summary
-
-In this section we have learned how to set up environment to be able to execute javascript code.We have learned how to use basic command on a terminal to be able to access different files and directories.
 
 
 For example:
