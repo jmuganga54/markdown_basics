@@ -114,16 +114,18 @@ Use of `git status` to list all new or modified files that haveen't been committ
 
 ```
 
-To format code or text into its own distinct block, use triple backticks.
+To format code or text into its own distinct block, use triple backticks 
 
-```
+
+
 Some basic Git commands are:
+
 ```
 git status
 git add
 git commit
 ```
-```
+
 
 
 
