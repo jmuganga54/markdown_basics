@@ -66,9 +66,9 @@ Example:
 <br>
 ***All bold and italic***
 <br>
-<sub>Subscript<sub>
+A<sub>Subscript<sub>
 <br>
-<sup>Superscript<sup>
+A<sup>Superscript<sup>
 <br>
 <ins>underline<ins>
 
