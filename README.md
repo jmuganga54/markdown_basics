@@ -99,6 +99,32 @@ Markdown code:
 > Text that is quote
 ```
 
+### Quoting code
+
+Intext code quoting
+
+Example:
+
+Use of `git status` to list all new or modified files that haveen't been committed.
+
+Markdown code:
+
+```
+Use of `git status` to list all new or modified files that haveen't been committed.
+
+```
+
+To format code or text into its own distinct block, use triple backticks.
+
+```
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+```
+
 
 
 
