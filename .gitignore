@@ -1,0 +1,36 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Thumbnails
+._.DS_Store
+Thumbs.db
+
+# VSCode or other editor folders
+.vscode/
+.idea/
+
+# Node modules (if using any tooling)
+node_modules/
+
+# Python cache (if you run scripts)
+__pycache__/
+*.pyc
+
+# R history files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Markdown preview / temp outputs
+*.html
+*.pdf
+*.docx
+
+# Backup files
+*~
+*.swp
+*.bak
