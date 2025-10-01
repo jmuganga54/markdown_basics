@@ -2,10 +2,12 @@
 
 This repository is simply me refreshing my basics of `Markdown`. Feel free to use it anytime you need a quick cheat sheet.
 
+> `Markdown` is a lightweight markup language used for formating text. It was designed to be easy to write and easy to read.
+
 ## keywords & Notes
 
 ### Paragraph
-By default when you type text with nothing else aroud it is going to render out a paragraph.
+By default when you type text with nothing else around it is going to render out a paragraph.
 
 If you want to create a new paragraph, you need to separate your old paragraph from your new paragraph by one empty line
 
@@ -30,6 +32,8 @@ PARA 2: Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus
 
 If you want to create a heading you use `#` sign
 
+> Note: `H6` is the smallest heading you can have.
+
 Example:
 
 # H1 Heading
@@ -49,6 +53,36 @@ Markdown Code:
 ##### H5 Heading
 ###### H6 Heading
 ```
+
+### Text Formating
+
+Example:
+
+**Bold**
+*Italic* or __Italic__
+~~Strikethrough~~ or ~Strikethrough~
+***All bold and italic***
+<sub>Subscript<sub>
+<sup>Superscript<sup>
+<ins>underline<ins>
+
+Markdown code:
+
+```
+**Bold**
+*Italic* or __Italic__
+~~Strikethrough~~ or ~Strikethrough~
+***All bold and italic***
+<sub>Subscript<sub>
+<sup>Superscript<sup>
+<ins>underline<ins>
+
+```
+
+
+
+
+
 
 
 
