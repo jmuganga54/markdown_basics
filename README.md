@@ -127,6 +127,24 @@ git commit
 ```
 
 
+### Supported color models
+
+Example:
+
+HEX: `#ffffff` - #ffffff - white
+RGB: `rgb(R,G,B)` - rgb(R,G,B) - blue
+HSL: `hsl(H,S,L)` - hsl(H,S,L) - blue
+
+Markdown code:
+
+```
+HEX: `#ffffff` - #ffffff - white
+RGB: `rgb(R,G,B)` - rgb(R,G,B) - blue
+HSL: `hsl(H,S,L)` - hsl(H,S,L) - blue
+
+```
+
+
 
 
 
