@@ -85,7 +85,19 @@ Markdown code:
 
 ```
 
+### Quoting text
 
+You can quote text with a `>`
+
+Example
+
+> Text that is quote
+
+Markdown code:
+
+```
+> Text that is quote
+```
 
 
 
