@@ -132,7 +132,9 @@ git commit
 Example:
 
 HEX: `#ffffff` - #ffffff - white
+<br>
 RGB: `rgb(R,G,B)` - rgb(R,G,B) - blue
+<br>
 HSL: `hsl(H,S,L)` - hsl(H,S,L) - blue
 
 Markdown code:
