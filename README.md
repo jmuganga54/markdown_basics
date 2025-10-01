@@ -129,6 +129,8 @@ git commit
 
 ### Supported color models
 
+> Note: The visualization of the color is only supported in issues, pull requests, and discussions.
+
 Example:
 
 HEX: `#ffffff` - #ffffff - white
